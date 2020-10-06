@@ -1,24 +1,20 @@
 
 
-### Dates, 2020
+### 26-27 October, 2020
 
 <a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
 
 
 ### Contact
 
-support@coderefinery.org
+annefou@geo.uio.no
 
 
 
 
 ### Course goals and format
 
-In this course, you will become familiar with tools and best practices
-for version control in modern research software development. The main
-focus is on using Git for efficiently writing and maintaining research
-software.  We don't teach programming, but we teach the tools you need
-to use programming well.
+This 2-day course is aimed at field ecologists, environmental scientists, climate modellers and biologists interested in improving climate models by better representing terrestrial ecosystems. [FATES](https://fates-docs.readthedocs.io/) is a numerical terrestrial ecosystem model for use in [Earth System Models (ESM)](https://soccom.princeton.edu/content/what-earth-system-model-esm) that simulates and predicts growth, death, and regeneration of plants and subsequent tree size distributions. Participants will learn about climate modelling as well as how to use the [Galaxy Climate JupyterLab](https://live.usegalaxy.eu/?tool_id=interactive_tool_climate_notebook){:target="_blank"} for running FATES experiments and compare those with observational data.
 
 This is an informal and interactive event with type-along type
 of presentations, live coding, and demos. Short tutorials alternate
@@ -26,106 +22,64 @@ with practical exercises.
 
 
 
-### Software requirements
+### Workshop requirements
 
-You need to install some software *before* CodeRefinery ([why we ask
-you to do
-this](https://coderefinery.github.io/installation/#why-are-we-asking-participants-to-install-software)).
+You need to register to [Galaxy](https://climate.usegalaxy.eu/)  *before* Galaxy CLM-FATES workshop.
 Please do this - *and check it* - in advance, otherwise you'll start off
 behind.
-
-Note that, e.g., a working Python executable on your laptop is not sufficient -
-a version greater than 3.4 is strongly recommended and a number of extra
-packages need to be installed as detailed on the Python installation
-page.  **You also need to check your git configuration**
-([video: how to configure Git](https://www.youtube.com/watch?v=WdDTp8NeHBs&list=PLpLblYHCzJACyKCfHnPwRruOxllNoHsEg)).
-**If you have an institutional laptop with limited rights, start in advance
-and/or ask for help to translate these instructions to work on your system.**
-
-- [Bash](https://coderefinery.github.io/installation/bash/)
-- [Editor](https://coderefinery.github.io/installation/editors/)
-- [Git](https://coderefinery.github.io/installation/git/), including
-  some **configuration**
-- [(optional) Visual diff tools](https://coderefinery.github.io/installation/difftools/)
-- [Python](https://coderefinery.github.io/installation/python/)
-- [Jupyter and JupyterLab](https://coderefinery.github.io/installation/jupyter)
-- [Snakemake](https://coderefinery.github.io/installation/snakemake)
-- [Zoom](https://coderefinery.github.io/installation/zoom/) (note: a
-  new version released on 27.april will be required for the second
-  week!)
-- University computer specific instructions:
-  - [Aalto University](https://scicomp.aalto.fi/news/coderefinery/)
-
-**You should either a) drop by one of our verification sessions in
-advance, or b) verify with your team's helper before the workshop.**
-
 
 ### Schedule
 
 Day 1
-- 9:00 - 9:30
-  [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (TBA)
-- 9:30 - 12:00
-  [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/)
-  (TBA)
-- 12:00 - 13:00
-  Lunch break
-- 13:00 - 15:00
-  [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/)
-  (TBA)
-- 15:30 - 17:00
-  [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
-  (TBA)
 
+- 9:00 - 9:30 
+  Welcome and Logistics
+- 9:30 - 10:15 
+  Introduction to Ecosystem Demography & FATES in ESMs
+- 10:15 - 10:30 Break
+- 10:30 - 11:15
+  Introduction to Galaxy
+- 11:15 - 12:00 
+  Preparing inputs for CLM-FATES 
+- 12:00 - 13:00 
+  Lunch Break
+- 13:00 - 13:30
+  Introduction to hands-on 
+- 13:30 - 15:00
+  Hands-on at your own pace
+- 15:00 - 15:15
+  Break
+- 15:15 - 16:00  
+  Meet-up Q&A
+  
 Day 2
-- 9:00 - 10:30
-  [Modular code development](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md)
-  (TBA)
-- 11:00 - 12:00
-  [Collaborative distributed version control 1/2](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
-- 12:00 - 13:00
-  Lunch break
-- 13:00 - 14:30
-  [Collaborative distributed version control 2/2](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
-- 15:00-17:00
-  [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
-  (TBA)
-
-Day 3
-- 9:00 - 10:30
-  [Documentation](https://coderefinery.github.io/documentation/)
-  (TBA)
-- 11:00 - 12:00
-  [Automated testing part 1/2](https://coderefinery.github.io/testing/)
-  (TBA)
-- 12:00 - 13:00
-  Lunch break
-- 13:00 - 14:00
-  [Automated testing part 2/2](https://coderefinery.github.io/testing/)
-  (TBA)
-- 14:30 - 16:30
-  [Jupyter](https://coderefinery.github.io/jupyter/)
-  (TBA)
-- 16:30 - 17:00
-  [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
-  (TBA)
-
+- 9:00 - 9:15 
+  Welcome back
+- 9:15 - 10:15
+  Hands-on: Running FATES-CLM in Galaxy
+- 10:15 - 10:30 Break
+- 10:30 - 12:00 
+  Hands-on: Post-processing/visualization of FATES-CLM model outputs in Galaxy
+- 12:00 - 13:00 
+  Lunch Break
+- 13:00 - 13:30
+  Hands-on: Customizing FATES-CLM experiment (make your own forcing, etc.)
+- 13:30 - 15:00
+  Workflows, Sharing and publishing Galaxy workflow
+- 15:00 - 15:15
+  Break
+- 15:15 - 16:00  
+  Meet-up Q&A and post-workshop survey
 
 ### Location
 
 The workshop will be held online, participant links will be sent to
-registered participants.  Also streamed at [https://twitch.tv/coderefinery]
-
+registered participants. 
 
 ### Price
 
-Free of charge, funded by the [Nordic e-Infrastructure
-Collaboration](https://neic.no/).
-
+Free of charge, funded by the [EOSC-Nordic](https://www.eosc-nordic.eu/) and [EOSC-Life](https://www.eosc-life.eu/).
 
 ### Contact
 
-support@coderefinery.org
+annefou@geo.uio.no
