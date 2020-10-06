@@ -2,14 +2,11 @@
 
 ### 26-27 October, 2020
 
-<a class="btn btn-info disabled" href="#" data-mode="1" target="_blank">Registration will open soon</a>
-
+<a class="btn btn-success" href="https://nettskjema.no/a/165669" data-mode="1" target="_blank">Register here</a>
 
 ### Contact
 
 annefou@geo.uio.no
-
-
 
 
 ### Course goals and format
@@ -32,54 +29,25 @@ behind.
 
 Day 1
 
-- 9:00 - 9:30 
-  Welcome and Logistics
-- 9:30 - 10:15 
-  Introduction to Ecosystem Demography & FATES in ESMs
+- 9:00 - 9:30 Welcome and Logistics
+- 9:30 - 10:15 Introduction to Ecosystem Demography & FATES in ESMs
 - 10:15 - 10:30 Break
-- 10:30 - 11:15
-  Introduction to Galaxy
-- 11:15 - 12:00 
-  Preparing inputs for CLM-FATES 
-- 12:00 - 13:00 
-  Lunch Break
-- 13:00 - 13:30
-  Introduction to hands-on 
-- 13:30 - 15:00
-  Hands-on at your own pace
-- 15:00 - 15:15
-  Break
-- 15:15 - 16:00  
-  Meet-up Q&A
+- 10:30 - 11:15 Introduction to Galaxy
+- 11:15 - 12:00 Preparing inputs for CLM-FATES 
+- 12:00 - 13:00 Lunch Break
+- 13:00 - 13:30 Introduction to hands-on 
+- 13:30 - 15:00 Hands-on at your own pace
+- 15:00 - 15:15 Break
+- 15:15 - 16:00 Meet-up Q&A
   
 Day 2
-- 9:00 - 9:15 
-  Welcome back
-- 9:15 - 10:15
-  Hands-on: Running FATES-CLM in Galaxy
+- 9:00 - 9:15 Welcome back
+- 9:15 - 10:15 Hands-on: Running FATES-CLM in Galaxy
 - 10:15 - 10:30 Break
-- 10:30 - 12:00 
-  Hands-on: Post-processing/visualization of FATES-CLM model outputs in Galaxy
-- 12:00 - 13:00 
-  Lunch Break
-- 13:00 - 13:30
-  Hands-on: Customizing FATES-CLM experiment (make your own forcing, etc.)
-- 13:30 - 15:00
-  Workflows, Sharing and publishing Galaxy workflow
-- 15:00 - 15:15
-  Break
-- 15:15 - 16:00  
-  Meet-up Q&A and post-workshop survey
+- 10:30 - 12:00 Hands-on: Post-processing/visualization of FATES-CLM model outputs in Galaxy
+- 12:00 - 13:00 Lunch Break
+- 13:00 - 13:30 Hands-on: Customizing FATES-CLM experiment (make your own forcing, etc.)
+- 13:30 - 15:00 Workflows, Sharing and publishing Galaxy workflow
+- 15:00 - 15:15 Break
+- 15:15 - 16:00 Meet-up Q&A and post-workshop survey
 
-### Location
-
-The workshop will be held online, participant links will be sent to
-registered participants. 
-
-### Price
-
-Free of charge, funded by the [EOSC-Nordic](https://www.eosc-nordic.eu/) and [EOSC-Life](https://www.eosc-life.eu/).
-
-### Contact
-
-annefou@geo.uio.no
