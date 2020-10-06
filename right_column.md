@@ -21,5 +21,5 @@ registered participants.
 
 ### Price
 
-Free of charge, funded by the [EOSC-Nordic](https://www.eosc-nordic.eu/) and [EOSC-Life](https://www.eosc-life.eu/).
+Free of charge, supported and funded by the [Galaxy Training Network](https://galaxyproject.org/teach/gtn/), [EOSC-Nordic](https://www.eosc-nordic.eu/) and [EOSC-Life](https://www.eosc-life.eu/).
 
