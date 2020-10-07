@@ -23,7 +23,10 @@ with practical exercises.
 
 ### Workshop requirements
 
-You need to register to [Galaxy](https://climate.usegalaxy.eu/)  *before* Galaxy CLM-FATES workshop.
+- You need to register to [Galaxy](https://climate.usegalaxy.eu/)  *before* Galaxy CLM-FATES workshop.
+- Watch or read the [command line crash course](https://scicomp.aalto.fi/scicomp/shell/), if you aren’t familiar.
+- Knowing basic Python syntax can be useful but is not a mandatory requirement. We will not be teaching Python programming but will provide you with examples for plotting and analyzing FATES results. 
+
 Please do this - *and check it* - in advance, otherwise you'll start off
 behind.
 
