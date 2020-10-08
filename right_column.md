@@ -5,6 +5,7 @@ This 2-day course is aimed at field ecologists, environmental scientists, climat
 
 ### Instructors
 
+- Rosie Fisher
 - Anne Fouilloux
 - Hui Tang
 
