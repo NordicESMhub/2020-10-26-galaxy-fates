@@ -10,3 +10,4 @@ dependencies:
   - python>=3
   - perl-xml-libxml=2.0132
   - jupyterlab_launcher>=0.5.0
+  - jupyter-offlinenotebook=0.1.0
