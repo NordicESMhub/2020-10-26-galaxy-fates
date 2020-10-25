@@ -38,21 +38,21 @@ Day 1
 - 9:30 - 10:15 Introduction to Ecosystem Demography & FATES in ESMs
 - 10:15 - 10:30 Break
 - 10:30 - 11:15 Introduction to Galaxy
-- 11:15 - 12:00 Preparing inputs for CLM-FATES 
-- 12:00 - 13:00 Lunch Break
-- 13:00 - 13:30 Introduction to hands-on 
-- 13:30 - 15:00 Hands-on at your own pace
+- 11:15 - 12:00 Presentation of the CLM-FATES hands-on
+- 12:00 - 14:00 Lunch Break
+- 14:00 - 15:00 Hands-on at your own pace
 - 15:00 - 15:15 Break
 - 15:15 - 16:00 Meet-up Q&A
   
 Day 2
 - 9:00 - 9:15 Welcome back
-- 9:15 - 10:15 Hands-on: Running FATES-CLM in Galaxy
+- 9:15 - 10:15 Hands-on: Running FATES-CLM in Galaxy (continue at your own pace)
 - 10:15 - 10:30 Break
-- 10:30 - 12:00 Hands-on: Post-processing/visualization of FATES-CLM model outputs in Galaxy
-- 12:00 - 13:00 Lunch Break
-- 13:00 - 13:30 Hands-on: Customizing FATES-CLM experiment (make your own forcing, etc.)
-- 13:30 - 15:00 Workflows, Sharing and publishing Galaxy workflow
+- 10:30 - 11:15 Workflows, Sharing and publishing Galaxy workflow
+- 11:15 - 12:00 Meet-up Q&A
+- 12:00 - 14:00 Lunch Break
+- 14:00 - 14:30 Presentation of Galaxy Climate JupyterLab
+- 14:30 - 15:00 Hands-on at your own pace: FATES-CLM in Galaxy Climate JupyterLab
 - 15:00 - 15:15 Break
 - 15:15 - 16:00 Meet-up Q&A and post-workshop survey
 
