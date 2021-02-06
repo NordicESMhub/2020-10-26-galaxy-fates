@@ -2,7 +2,7 @@
 
 ### 26-27 October, 2020
 
-<a class="btn btn-success" href="https://nettskjema.no/a/165669" data-mode="1" target="_blank">Register here</a>
+<a class="btn btn-danger" href="https://nettskjema.no/a/165669" data-mode="1" target="_blank">Registration closed</a> 
 
 ### Contact
 
